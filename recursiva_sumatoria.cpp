@@ -14,6 +14,6 @@ int main() {
     int n;
     cout << "Ingrese el límite de la serie: ";
     cin >> n;
-    cout << "La sumatoria alternada es: " << sumatoriaAlternada(n) << std::endl;
+    cout << "La sumatoria alternada es: " << sumatoriaAlternada(n) <<endl;
     return 0;
 }
