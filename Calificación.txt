@@ -1,0 +1,3 @@
+Calificación: 1.7/2
+
+Desde el main hay que llamar al menos 2 veces a cada función
